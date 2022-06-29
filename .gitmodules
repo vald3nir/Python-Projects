@@ -1,0 +1,24 @@
+[submodule "Python-OpenCV-Face-Recognition"]
+	path = Python-OpenCV-Face-Recognition
+	url = https://github.com/vald3nir/Python-OpenCV-Face-Recognition.git
+[submodule "Python-Spotify-Music-Downloader"]
+	path = Python-Spotify-Music-Downloader
+	url = https://github.com/vald3nir/Python-Spotify-Music-Downloader.git
+[submodule "Python-Machine-Learning"]
+	path = Python-Machine-Learning
+	url = https://github.com/vald3nir/Python-Machine-Learning.git
+[submodule "Home-Appliance-Classifier"]
+	path = Home-Appliance-Classifier
+	url = https://github.com/vald3nir/Home-Appliance-Classifier.git
+[submodule "Python-Flask-Demo"]
+	path = Python-Flask-Demo
+	url = https://github.com/vald3nir/Python-Flask-Demo.git
+[submodule "Python-Utils-Project"]
+	path = Python-Utils-Project
+	url = https://github.com/vald3nir/Python-Utils-Project.git
+[submodule "Python-World-Data"]
+	path = Python-World-Data
+	url = https://github.com/vald3nir/Python-World-Data.git
+[submodule "Python-Flask-Auth"]
+	path = Python-Flask-Auth
+	url = https://github.com/vald3nir/Python-Flask-Auth.git
